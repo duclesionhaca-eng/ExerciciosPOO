@@ -1,0 +1,22 @@
+RELATÓRIO AUTOMÁTICO
+Tipo: Todos
+Data: 01/11/2025 23:48:18
+==================================================
+
+=== ANIMAIS (3 registros) ===
+• Animal: Rex (Cachorro) - 3 anos
+• Animal: Mimi (Gato) - 2 anos
+• Animal: Piu (Pássaro) - 1 anos
+
+=== PESSOAS (2 registros) ===
+• Pessoa: João Silva - joao@email.com - 841234567
+• Pessoa: Maria Santos - maria@email.com - 842345678
+
+=== FUNCIONÁRIOS (3 registros) ===
+• Funcionário: Carlos Lima - Gerente - 25000,00 MT
+• Funcionário: Ana Costa - Assistente - 15000,00 MT
+• Funcionário: Pedro Alves - Analista - 18000,00 MT
+
+
+==================================================
+Relatório gerado automaticamente
